@@ -1,10 +1,4 @@
 # EXCEL executive-sales-competition-dashboard
-This project showcases an end-to-end Excel BI solution built using PivotTables, PivotCharts, slicers, and automated calculations to analyze global sales performance from 2003 to 2005. The dashboard allows users to interact with sales data by year, quarter, country, customer, and product line to identify trends, top performers.
-
-Excel Interactive Sales Dashboard (2003–2005)
-
-An interactive Business Intelligence dashboard created in Excel using PivotTables, PivotCharts, slicers, and timeline filters to analyze global sales performance from 2003 to 2005. This project demonstrates Excel-based data analysis for product performance, customer segmentation, geographic insights, and time-series trends.
-
 Excel Interactive Sales Dashboard (2003–2005)
 An interactive Business Intelligence dashboard created in Excel using PivotTables, PivotCharts, slicers, and timeline filters to analyze global sales performance from 2003 to 2005. This project demonstrates Excel-based data analysis for product performance, customer segmentation, geographic insights, and time-series trends.
 
